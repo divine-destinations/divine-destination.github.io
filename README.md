@@ -1,1 +1,1 @@
-# divine-destination.github.io
+# divine-destinations.github.io
